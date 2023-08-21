@@ -50,5 +50,6 @@ typora-root-url: ../
 |![在这里插入图片描述](/assets/Gsz.jpg)| @Gsz |`在美企工作`、`深圳`、`java`、`Python`、`物联网`、`通讯设备`|
 |![在这里插入图片描述](/assets/qinxiaowei.jpg)| @秦晓伟 |`c++`、`独立开发者`|
 |![在这里插入图片描述](/assets/zhizhuxia.jpg)| @知猪侠 |`Java`|
+|![在这里插入图片描述](/assets/shenyuping.jpg)| @微光-沈玉萍 |`物联网公司`、`二维码`、`人脸`、`控制板登`、`有自己的平台`|
 | … |…  |…|
 
