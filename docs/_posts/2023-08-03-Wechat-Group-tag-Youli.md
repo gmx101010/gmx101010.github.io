@@ -51,6 +51,6 @@ typora-root-url: ../
 |![在这里插入图片描述](/assets/qinxiaowei.jpg)| @秦晓伟 |`c++`、`独立开发者`|
 |![在这里插入图片描述](/assets/zhizhuxia.jpg)| @知猪侠 |`Java`|
 |![在这里插入图片描述](/assets/shenyuping.jpg)| @微光-沈玉萍 |`物联网公司`、`二维码`、`人脸`、`控制板登`、`有自己的平台`|
-|![在这里插入图片描述](/assets/jianyuan.jpg)| @簡遠  |`电商`、`五货源`、`快手`、`电商运营`|
+|![在这里插入图片描述](/assets/jianyun.jpg)| @簡遠  |`电商`、`五货源`、`快手`、`电商运营`|
 | … |…  |…|
 
